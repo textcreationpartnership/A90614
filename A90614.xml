@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the supreme authority, the Parliament of the Commonwealth of England The humble petition of divers well-affected people inhabiting the cities of London, Westminster, the borough of Southwark, and places adjacent, being their second petition in behalf of Lieut. Col. Iohn Lilburn, and the liberties of the Commonwealth.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90614</idno>
+            <idno type="STC">Wing P1853</idno>
+            <idno type="STC">Thomason 669.f.17[24]</idno>
+            <idno type="STC">ESTC R211553</idno>
+            <idno type="EEBO-CITATION">99870269</idno>
+            <idno type="PROQUEST">99870269</idno>
+            <idno type="VID">163274</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90614)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163274)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f17[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the supreme authority, the Parliament of the Commonwealth of England The humble petition of divers well-affected people inhabiting the cities of London, Westminster, the borough of Southwark, and places adjacent, being their second petition in behalf of Lieut. Col. Iohn Lilburn, and the liberties of the Commonwealth.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At head of main text: The petition rejected by the Parliament, being tendered to them in behalf of Lievt. Col. John Lilburn, and in behalf of the liberties of all the people of England, highly violated by their unjust act made for his banishment, confiscation of his estate, and in rendring him a felon if he should return, now published: ... .</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "London. June 24. 1653".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lilburne, John, 1614?-1657 --  Imprisonment --  Early works to 1800.</term>
+               <term>Detention of persons --  England --  Early works to 1800.</term>
+               <term>Prisoners --  Civil rights --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="to_the_reader">
+            <pb facs="tcp:163274:1" rendition="simple:additions"/>
+            <p>The Petition rejected by the Parliament, being tendered to them in behalf of Lievt. Col. <hi>John Lilburn,</hi> and
+in behalf of the Liberties of all the people of England, highly violated by their unjuſt Act made for his baniſhment, confiſcation of his eſtate,
+and in rendering him a Felon if he ſhould return, now publiſhed: he being peaceably returned, and caſting himſelf in all humility upon the ju<g ref="char:EOLhyphen"/>ſtice
+of his cauſe, and the conſcience of theſe knowing times, the Parliament who unjuſtly baniſhed him, and ſought his life, being diſſolved. And
+moſt eſpecially intended to ſatisfie, and truly inform all ingenious and conſcionable people of the injuſtice and cruelty of the Parliaments proceed<g ref="char:EOLhyphen"/>ings
+againſt him, whoſe life for many years hath been eagerly ſought, and thirſted after, as was moſt remarkably evident by his Tryal at Guild-Hal,
+London, <hi>Octob.</hi> 24. 1649. where God through the conſciences of his Jury wonderfully delivered him. And by which rejected Petition (if rightly
+and truly weighed) it will appeare, that the ſaid Act of Parliament is an unlawfull and bloudy Act, and is null and void in it ſelf, in being con<g ref="char:EOLhyphen"/>trary
+to the known Fundamentall Law of the Land; and therefore every one that ſhall have any hand in taking away his life, by force of that Act,
+is by the true Law of England no leſſe then a murtherer, and no murtherer can eſcape the judgment and vengeance of God; but with his owne
+draweth a curſe upon his Family and poſterity, from which the Lord preſerve every well-meaning honeſt man. Read this refuſed Petition with
+the ſame feeling and affection, as if his caſe were yours, for ſo indeed it is, if you rightly conſider that you are all Engliſhmen, and do for his pre<g ref="char:EOLhyphen"/>ſervation
+as you would be done for in his condition.</p>
+         </div>
+         <div type="petition">
+            <head>To the ſupreme Authority, the Parliament of the Commonwealth of England;
+The humble Petition of divers well-affected People inhabiting the Cities of London, Weſtminſter, the Borough of Southwark, and places adjacent, being their ſecond Petition in
+behalf of Lievt. Col. Iohn Lilburn, and the Liberties of the Commonwealth.</head>
+            <opener>Humbly ſhewing,</opener>
+            <p>THat inaſmuch as during this life, experience of all ages proveth, That the wiſeſt of men and Councells are liable to error, and that not only former Parliaments in
+many things have been very much miſtaken, but that even this Parliament alſo (in its ſeverall times) hath not been exempted from humane frailties, doing at one time
+upon a ſuddain miſapprehenſion, what at another time they have ſo far diſapproved, as to cauſe the ſame, with all its circumſtances, to be razed out of all remembrance.</p>
+            <p>Which we mention not any wayes to reflect immodeſtly upon any, but our moſt humble thoughts are, to incline you to a readineſs of condeſcention in all caſes, to hear
+the reaſonings of thoſe for whom you are truſted, and at this time ſeriouſly and patiently to conſider, what in our laſt we offered, or what in this our humble addreſs we
+ſhall offer, in behalf of Lievt. Col. <hi>John Lilburn,</hi> and our fundamentall Native Rights, highly concerned in your proceedings againſt him.</p>
+            <p>And likewiſe to induce you meekly to inquire, whether as all the errors and inconveniences of all other authority, ſo alſo thoſe which Parliaments have at any time
+unhappily incurred, have not aroſe from their deviation from that certain rule the Fundamentall Law of the Land, which this Parliament in its firſt eſtate, and firſt Re<g ref="char:EOLhyphen"/>monſtrance,
+declared to be the common birth-right of the people of England.</p>
+            <p>And when through long continuance in power, and ſway of corrupt intereſts the major part thereof by numerous oppreſſions, diſcerned (though too late) their own
+deviation; they alſo acknowledge in their Declaration of the 17. <hi>April</hi> 1646. that nothing ought to be done that is inconſiſtent with our fundamentall Laws, and that al<g ref="char:EOLhyphen"/>though
+the neceſſity of war had given ſome diſturbance to legall proceedings, ſtopped the uſuall courſe of Juſtice, enforced the Parliament for preſervation of this State,
+to impoſe and require many great and unuſuall payments from the people, and to take extraordinary wayes to procure moneys for their preſſing occaſions, it having (as
+they there ſay) pleas'd God to reduce our affairs into a more hopefull condition then heretofore we do declare, <hi>That we will not, nor any by colour of any authority from us,
+ſhall interrupt the ordinary courſe of Juſtice in the ſeverall Courts of Indicatories in this Nation, nor intermeddle in caſes of private intereſt, otherwiſe determinable, unleſſe it be in
+caſe of male adminiſtration of Iuſtice,</hi> wherein we ſhall ſee and provide that right be done, and puniſhment inflicted, as there ſhall be occaſion, <hi>According to the Lawes of the
+Land,</hi> and the truſt repoſed in us.</p>
+            <p>And when notwithſtanding all theſe excellent expreſſions, they proceeded in their former evill ways, multiplying oppreſſion upon oppreſſion, ſtill contrary to thoſe
+Fundamentalls, as they did neer the time of the expiration of <hi>Hollis</hi> and <hi>Stapteton,</hi> and their corrupt faction, and that to ſo great a fright, as inforc't the Army to appear in
+oppoſition to their evill practiſes.</p>
+            <p>The worthy Army, by their Declaration the 14. <hi>Iune</hi> 1647. undertook then in theſe worthy expreſſions, That the compleat ſettlement of the <hi>Liberties,</hi> and peace of
+the Nation, is that bleſſing of God, then of which all worldly things, nothing is more dear or precious in their thoughts, having hitherto thought all preſent enjoyments
+(whether of life, or livelyhood, or neereſt relations) a price but ſufficient to the purchaſe of ſo rich a bleſſing, that we, and all the free-born-people of this Nation, may ſit
+down in quiet under our Vines, under the glorious adminiſtration of juſtice and righteouſneſſe, and in <hi>full poſſeſſion of thoſe Fundamentall Rights and Liberties,</hi> without
+which we can have little hopes to enjoy any comforts of life, or ſo much as life it ſelf, but at the pleaſures of ſome men ruling meerly by will and power; and declaring
+further, that they were not a meer Mercenary Army, hired to ſerve any arbitrary power of a State, but called forth, and conjured by the ſeverall <hi>Declarations</hi> of Parlia<g ref="char:EOLhyphen"/>ment,
+to the defence of our own and the peoples <hi>just Rights and Liberties,</hi> and ſo we took up arms in judgment and conſcience to thoſe ends.</p>
+            <p>So as all things duly weighed, we humbly conceive that nothing is more manifeſt, then that there is belonging to us and the Nation, Fundamentall Liberties, which are
+our birth-rights, and the chief inheritance of the people of <hi>England:</hi> And that their reſtoration was the only juſtifiable ground of the late war againſt the King, and of
+all the extraordinary motions and proceedings of the Army againſt the ſecluded Members of Parliament, and that ſucceſſive Parliaments are but a principall part of thoſe
+Rights, inſtituted for conſervation of publike peace, and for defence and preſervation of thoſe Fundamentalls, and that they have not authority to the contrary.</p>
+            <p>And we do alſo humbly conceive it to be an eſſentiall and Fundamentall Right, that no free-man of England ought to be adjudged of life, limb, liberty, or eſtate, but
+only by Juries, according to the known Law of the Land, and that it is of right, that no man ought to be fined or amerced to the deſtruction of his quality, whether Gen<g ref="char:EOLhyphen"/>tleman,
+Merchant, Countrymen, &amp;c. and thoſe fines to be amerced by Juries alſo, and not otherwiſe: And as we are confirmed in the former, by Declarations of Parlia<g ref="char:EOLhyphen"/>ment
+and Army, ſo in the later by the Petition of Right, and your own Declarations ſtiling the ſame, <hi>That most excellent Law,</hi> wherein trialls by Juries are only princi<g ref="char:EOLhyphen"/>pally
+minded; and if it be obſerved how tender that Law is of the juſt right, even of looſe and diſſolute perſons (therein mentioned) to trialls by Juries, (if they had of<g ref="char:EOLhyphen"/>fended)
+ſurely we ſhall not ſeem blame-worthy, to inſiſt for the ſame way of triall as due to Lievt. Col. <hi>John Lilburn,</hi> in any caſe whatſoever, a perſon that through ma<g ref="char:EOLhyphen"/>ny
+afflictions hath been approved, upon legall trialls acquitted, and who hath been many ways ſerviceable to Parliament and Commonwealth.</p>
+            <p>And if alſo it be laid to heart, how that worthy Parliament in that Petition of Right, made even thoſe looſe and diſſolute perſons caſes (who had been adjudged with<g ref="char:EOLhyphen"/>out
+Juries) their own and every mans caſe, as truly ſeeing the publike right violated upon them; we thought it would appear neither preſumption, nor indiſcretion in us,
+in making his caſe ours; and truly we know not any thing in the world that would ſo dant and perplex our ſpirits, as that after all theſe wars and miſeries indured for
+reſtitution of our Fundamentall Laws, and all thoſe fervent promiſes and Declararions both of Parliament and Army in behalf thereof, (which God forbid ſhould be all
+in vain) we ſhould nevertheleſſe every one of us, as Mr. <hi>Lilburn,</hi> and indeed in him eſpecially, who hath ſtood in defence of them as he hath done, be rendred lyable to be
+judged of life, limb, liberty, and eſtate, without Juries, by any ſtanding power or men whatſoever.</p>
+            <p>And therefore if we ſeem importunate in this caſe, we beſeech you impute it not to reſtleſſeneſſe of ſpirit, or to any blinded affection to Mr. <hi>Lilburn,</hi> it being from
+judgment and conſcience, and in faithfulneſſe to our Native Rights, for which (upon call from you and the Army) we have adventured all we could, which makes us thus
+to preſſe upon your weighty occaſions, and if poſſible, to prevent your further engagement in this way of judging him, begging and beſeeching you, not to paſſe by theſe
+our former addreſſes, but patiently and deeply to weigh the reaſons and arguments therein contained, and to deem it your honor to condeſcend to our humble weakneſs
+in things that appear to be evidently juſt.</p>
+            <p>1. And in love and tenderneſſe to the Nations Liberties, and to the faithfulneſſe of all that have adhered unto you in all extremities, That you will be pleaſed yet be<g ref="char:EOLhyphen"/>fore
+he put from the Engliſh ſhore, to recall your ſentence of fine and baniſhment againſt Mr. <hi>Lilburn,</hi> that ſo himſelf, his wife, and ſmall children, may be preſerved from
+imminent deſtruction.</p>
+            <p>2. If it be conceived, that he hath in any meaſure offended againſt the Publike, that he may be called to a publike triall, by way of Indictment and Juries, that ſo he may
+have the benefit of legall challenges, and that none who for paſt differences may be preſumed to bear him grudge, as M. Attorney Generall, and other Lawyers for his in<g ref="char:EOLhyphen"/>truſion
+(as they are like to deem it) into their profeſſion; and others for other occaſions or relations to Sir <hi>Arthur Haſlorig</hi> (may be ſuppoſed to do) may be his trayers, as
+in this cenſure it is feared they have been, it being a ſad thing, and directly contrary to the Law of England, that a mans Adverſaries ſhould be his Judges.</p>
+            <p>3. That Sir <hi>Arthur Haſlerig</hi> may be referred to take his courſe at Law for whatſoever he conceives himſelf damnified by M. <hi>Lilburn,</hi> as was done in Mr. <hi>Muſgraves</hi>
+eaſe, againſt whom as yet he hath commenced no ſuit, notwithſtanding Mr. <hi>Muſgraves</hi> printing of many Articles againſt him, and that Mr. <hi>Lilburn,</hi> or any other, may
+have the like liberty of Law againſt Sir <hi>Arthur.</hi>
+            </p>
+            <p>4. That Mr. <hi>Primate</hi> may be at liberty to plead his poſſeſſion and title at Law, to the Colliery in queſtion, and to make uſe of what Councel he judgeth convenient.</p>
+            <p>5. And laſtly, That you will reſtore us unto thoſe our Native Rights and Trialls by Juries, and neither to interpoſe by your own immediate authority, in caſes of life,
+limb, liberty, or eſtate, but to permit the Law to have its due courſe, as well upon your own members, as any others; and to ſuffer none by any authority, from you to in<g ref="char:EOLhyphen"/>novate
+upon them.</p>
+            <p>That ſo taſting the true, ſweet, and proper fruit of Parliaments in the indiſturbed enjoyment of true Native Engliſh Liberty, we with all the free-born people of Eng<g ref="char:EOLhyphen"/>land,
+may have juſt cauſe to bleſſe God for the ſame, and for the happy inſtruments of its reſtoration.</p>
+            <closer>And as in duty bound, ſhall pray, &amp;c.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
